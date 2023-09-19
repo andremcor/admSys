@@ -1,4 +1,4 @@
-# <h1>FRECH VERSION<h1>
+# <h1>FRENCH VERSION<h1>
 
 **_L'architecture client serveur vers pratique des systèmes Unix et Linux_**
 
